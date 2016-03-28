@@ -107,7 +107,7 @@ test_mc(4, [msg_bad, msg_bad, msg_bad, msg_success])
 
 Do you remember the plot of the last exercise? Let's make an even cooler plot!
 
-A dataset of movies, `movies`, is available in the workspace.
+A dataset of movies, `movies`, is available in the workspace. lalala
 
 *** =instructions
 - The first function, `np.unique()`, uses the `unique()` function of the `numpy` package to get integer values for the movie genres. You don't have to change this code, just have a look!
